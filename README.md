@@ -29,8 +29,8 @@ I believe in the power of technology and immutability to transform lives and sol
 ## **Featured Projects**  
 Explore some of the projects that define my journey:  
 
-- **[tiny-vllm](https://github.com/moreWax/tiny-vllm)**: lightweight vLLM rewrite
-- **[Rooch Network](https://github.com/rooch-network)**: Founding Member
+- **[tiny-vllm](https://github.com/moreWax/tiny-vllm)**: WIP lightweight vLLM rewrite
+- **[Rooch Network](https://github.com/rooch-network)**: Co-Founder
 
 ---
 
@@ -71,7 +71,7 @@ Explore some of the projects that define my journey:
 ## **Connect**  
 - **GitHub**: [moreWax](https://github.com/moreWax)  
 - **Email**: [Professional Inquiries](mailto:contact@morewax.dev)  
-- **LinkedIn**: [Professional Network](https://www.linkedin.com/in/moreWax)  
+- **Twitter/X**: [buythedip___](https://x.com/buythedip___)  
 
 ---
 
@@ -88,6 +88,7 @@ Maintained: Active
 
 ![](https://github.com/user-attachments/assets/3995c2b6-4952-484d-bcdd-e18d01f9af8e)
 
+---
 ---
 
 ## **Footer**  
