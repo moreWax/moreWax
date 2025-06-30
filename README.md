@@ -68,10 +68,11 @@ Explore some of the projects that define my journey:
 
 ---
 
-## **Connect**  
-- **GitHub**: [moreWax](https://github.com/moreWax)  
-- **Email**: [Professional Inquiries](mailto:contact@morewax.dev)  
-- **Twitter/X**: [buythedip___](https://x.com/buythedip___)  
+## **Connect**
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moreWax)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:contact@morewax.dev)
+[![Twitter/X](https://img.shields.io/badge/-buythedip___-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/buythedip___)
 
 ---
 
