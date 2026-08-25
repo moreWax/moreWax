@@ -1,5 +1,5 @@
 ## moreWax
 
-### Principal AI Engineer @ [Granite Insurance Brokerage](https://graniteins.com/)
+### Principal AI Engineer @ [Granite](https://graniteins.com/)
 
 Co-Founder @ [Rooch Network](https://rooch.network)
